@@ -1,0 +1,616 @@
+{
+ "listing": {
+  "AST-2BR-FURN": {
+   "1600": [
+    "assets/img/property/ast-2br-furn.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/ast-2br-furn-800.webp",
+    800,
+    1067
+   ]
+  },
+  "AST-2BR-FURN-02": {
+   "1600": [
+    "assets/img/property/ast-2br-furn-02.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/ast-2br-furn-02-800.webp",
+    800,
+    1067
+   ]
+  },
+  "AST-2BR-FURN-03": {
+   "1600": [
+    "assets/img/property/ast-2br-furn-03.webp",
+    960,
+    720
+   ],
+   "800": [
+    "assets/img/property/ast-2br-furn-03-800.webp",
+    800,
+    600
+   ]
+  },
+  "AST-2BR-UNFURN": {
+   "1600": [
+    "assets/img/property/ast-2br-unfurn.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/ast-2br-unfurn-800.webp",
+    800,
+    1067
+   ]
+  },
+  "AST-2BR-UNFURN-02": {
+   "1600": [
+    "assets/img/property/ast-2br-unfurn-02.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/ast-2br-unfurn-02-800.webp",
+    800,
+    1067
+   ]
+  },
+  "AST-2BR-UNFURN-03": {
+   "1600": [
+    "assets/img/property/ast-2br-unfurn-03.webp",
+    720,
+    960
+   ],
+   "800": [
+    "assets/img/property/ast-2br-unfurn-03-800.webp",
+    720,
+    960
+   ]
+  },
+  "NWD-STUDIO-MKT": {
+   "1600": [
+    "assets/img/property/nwd-studio-mkt.webp",
+    1086,
+    1448
+   ],
+   "800": [
+    "assets/img/property/nwd-studio-mkt-800.webp",
+    800,
+    1067
+   ]
+  },
+  "NWD-STUDIO-LIHTC": {
+   "1600": [
+    "assets/img/property/nwd-studio-lihtc.webp",
+    1086,
+    1448
+   ],
+   "800": [
+    "assets/img/property/nwd-studio-lihtc-800.webp",
+    800,
+    1067
+   ]
+  },
+  "NWD-1BR-MKT": {
+   "1600": [
+    "assets/img/property/nwd-1br-mkt.webp",
+    1239,
+    1269
+   ],
+   "800": [
+    "assets/img/property/nwd-1br-mkt-800.webp",
+    800,
+    819
+   ]
+  },
+  "NWD-1BR-LIHTC": {
+   "1600": [
+    "assets/img/property/nwd-1br-lihtc.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/nwd-1br-lihtc-800.webp",
+    800,
+    1067
+   ]
+  },
+  "NWD-2BR-MKT": {
+   "1600": [
+    "assets/img/property/nwd-2br-mkt.webp",
+    1086,
+    1448
+   ],
+   "800": [
+    "assets/img/property/nwd-2br-mkt-800.webp",
+    800,
+    1067
+   ]
+  },
+  "NWD-2BR-MKT-725": {
+   "1600": [
+    "assets/img/property/nwd-2br-mkt-725.webp",
+    1448,
+    1086
+   ],
+   "800": [
+    "assets/img/property/nwd-2br-mkt-725-800.webp",
+    800,
+    600
+   ]
+  },
+  "NWD-2BR-LIHTC": {
+   "1600": [
+    "assets/img/property/nwd-2br-lihtc.webp",
+    1086,
+    1448
+   ],
+   "800": [
+    "assets/img/property/nwd-2br-lihtc-800.webp",
+    800,
+    1067
+   ]
+  },
+  "HLM-WH-IND": {
+   "1600": [
+    "assets/img/property/hlm-wh-ind.webp",
+    1534,
+    1025
+   ],
+   "800": [
+    "assets/img/property/hlm-wh-ind-800.webp",
+    800,
+    535
+   ]
+  },
+  "HLM-OFFICE": {
+   "1600": [
+    "assets/img/property/hlm-office.webp",
+    1600,
+    1200
+   ],
+   "800": [
+    "assets/img/property/hlm-office-800.webp",
+    800,
+    600
+   ]
+  },
+  "BRN-OFFICE": {
+   "1600": [
+    "assets/img/property/brn-office.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/brn-office-800.webp",
+    800,
+    1067
+   ]
+  },
+  "FTR-IND-FACILITY": {
+   "1600": [
+    "assets/img/property/ftr-ind-facility.webp",
+    1600,
+    2133
+   ],
+   "800": [
+    "assets/img/property/ftr-ind-facility-800.webp",
+    800,
+    1067
+   ]
+  },
+  "NPL-WH-OFFICE": {
+   "1600": [
+    "assets/img/property/npl-wh-office.webp",
+    720,
+    960
+   ],
+   "800": [
+    "assets/img/property/npl-wh-office-800.webp",
+    720,
+    960
+   ]
+  },
+  "DHS-IND-CREW": {
+   "1600": [
+    "assets/img/property/dhs-ind-crew.webp",
+    1600,
+    1200
+   ],
+   "800": [
+    "assets/img/property/dhs-ind-crew-800.webp",
+    800,
+    600
+   ]
+  }
+ },
+ "extra": {
+  "northward-exterior": {
+   "1600": [
+    "assets/img/property/northward-exterior.webp",
+    1280,
+    960
+   ],
+   "800": [
+    "assets/img/property/northward-exterior-800.webp",
+    800,
+    600
+   ]
+  },
+  "astreet-townhouses": {
+   "1600": [
+    "assets/img/property/astreet-townhouses.webp",
+    577,
+    421
+   ],
+   "800": [
+    "assets/img/property/astreet-townhouses-800.webp",
+    577,
+    421
+   ]
+  },
+  "unit-before": {
+   "1600": [
+    "assets/img/property/unit-before.webp",
+    577,
+    421
+   ],
+   "800": [
+    "assets/img/property/unit-before-800.webp",
+    577,
+    421
+   ]
+  },
+  "unit-after": {
+   "1600": [
+    "assets/img/property/unit-after.webp",
+    577,
+    421
+   ],
+   "800": [
+    "assets/img/property/unit-after-800.webp",
+    577,
+    421
+   ]
+  },
+  "aurora": {
+   "1900": [
+    "assets/img/property/frontier-aurora.webp",
+    1800,
+    1200
+   ],
+   "1000": [
+    "assets/img/property/frontier-aurora-1000.webp",
+    1000,
+    667
+   ]
+  }
+ },
+ "deadhorse": [
+  {
+   "stem": "01-hangars-from-airfield",
+   "alt": "The two Deadhorse hangars seen from the airfield road under clear sky",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/01-hangars-from-airfield.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/01-hangars-from-airfield-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "02-main-hangar-exterior",
+   "alt": "Main Deadhorse hangar exterior with apron parking and crew trucks",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/02-main-hangar-exterior.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/02-main-hangar-exterior-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "03-hangar-side-elevation",
+   "alt": "Side elevation of the Deadhorse hangar with personnel door and roll-up bay",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/03-hangar-side-elevation.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/03-hangar-side-elevation-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "04-facility-exterior-fenced",
+   "alt": "Deadhorse hangar and shop buildings behind the secured airfield fence",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/04-facility-exterior-fenced.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/04-facility-exterior-fenced-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "05-facility-from-airfield",
+   "alt": "Deadhorse facility buildings viewed across the gravel apron",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/05-facility-from-airfield.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/05-facility-from-airfield-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "06-main-hangar-interior",
+   "alt": "Main hangar interior showing the clear-span floor and overhead hoist",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/06-main-hangar-interior.webp",
+     1400,
+     1050
+    ],
+    "700": [
+     "assets/img/deadhorse/06-main-hangar-interior-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "07-hangar-interior-wide",
+   "alt": "Hangar interior looking toward the insulated bi-fold door",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/07-hangar-interior-wide.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/07-hangar-interior-wide-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "08-hangar-interior-equipment",
+   "alt": "Hangar bay with rolling maintenance stands",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/08-hangar-interior-equipment.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/08-hangar-interior-equipment-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "09-hangar-interior-flags",
+   "alt": "Hangar interior with work stands and mezzanine offices beyond",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/09-hangar-interior-flags.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/09-hangar-interior-flags-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "10-hangar-door",
+   "alt": "Insulated bi-fold hangar door from inside the bay",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/10-hangar-door.webp",
+     768,
+     1024
+    ],
+    "700": [
+     "assets/img/deadhorse/10-hangar-door-700.webp",
+     700,
+     933
+    ]
+   }
+  },
+  {
+   "stem": "11-hangar-mezzanine",
+   "alt": "Hangar bay with mezzanine storage above the shop offices",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/11-hangar-mezzanine.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/11-hangar-mezzanine-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "12-mezzanine-stair",
+   "alt": "Steel stair to the mezzanine level above the shop offices",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/12-mezzanine-stair.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/12-mezzanine-stair-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "13-tool-room-mezzanine",
+   "alt": "Enclosed tool room with racked mezzanine storage above",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/13-tool-room-mezzanine.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/13-tool-room-mezzanine-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "14-warehouse-bay",
+   "alt": "Heated warehouse bay with insulated walls and overhead door",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/14-warehouse-bay.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/14-warehouse-bay-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "15-warehouse-interior",
+   "alt": "Second warehouse bay with open floor area",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/15-warehouse-interior.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/15-warehouse-interior-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "16-office",
+   "alt": "Office and meeting room within the crew building",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/16-office.webp",
+     1024,
+     768
+    ],
+    "700": [
+     "assets/img/deadhorse/16-office-700.webp",
+     700,
+     525
+    ]
+   }
+  },
+  {
+   "stem": "17-crew-kitchen",
+   "alt": "Crew kitchen with full-size refrigerator and prep counters",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/17-crew-kitchen.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/17-crew-kitchen-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "18-crew-lounge",
+   "alt": "Crew lounge with seating and common area",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/18-crew-lounge.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/18-crew-lounge-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "19-crew-common-room",
+   "alt": "Crew common room with additional seating",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/19-crew-common-room.webp",
+     480,
+     360
+    ],
+    "700": [
+     "assets/img/deadhorse/19-crew-common-room-700.webp",
+     480,
+     360
+    ]
+   }
+  },
+  {
+   "stem": "20-crew-bedroom",
+   "alt": "Furnished single sleeping room in the crew quarters",
+   "sizes": {
+    "1400": [
+     "assets/img/deadhorse/20-crew-bedroom.webp",
+     360,
+     480
+    ],
+    "700": [
+     "assets/img/deadhorse/20-crew-bedroom-700.webp",
+     360,
+     480
+    ]
+   }
+  }
+ ]
+}
